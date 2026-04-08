@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**korgaonkarparth2522-max/korgaonkarparth2522-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and curious developer who enjoys solving problems and building efficient solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 💻 I enjoy working with Python and exploring new technologies  
+- 📚 Currently learning and improving my problem-solving skills  
+- 🧠 Interested in writing clean, optimized, and readable code  
+- 🔍 Always curious about how things work under the hood  
+
+---
+
+### 🛠️ Skills
+- Programming: Python, Basic Data Structures & Algorithms  
+- Concepts: OOP, Problem Solving, Logic Building  
+- Tools: Git, GitHub, VS Code  
+
+---
+
+### 📈 What I'm Working On
+- Improving coding efficiency and logic building  
+- Practicing DSA problems regularly  
+- Building small projects to strengthen fundamentals  
+
+---
+
+### 🤝 Collaboration
+- Open to collaborating on beginner-friendly projects  
+- Interested in learning from other developers  
+
+---
+
+### 📫 Contact
+- You can connect with me through GitHub  
+
+---
+
+### ⚡ Fun Fact
+- I enjoy breaking down complex problems into simple logic  
+
+---
+
+⭐ *“Consistency beats intensity in coding.”*
